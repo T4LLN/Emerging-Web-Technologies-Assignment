@@ -1,5 +1,7 @@
 ## James Tallon's Emerging Web Technologies Assignment
 
+![alt text](docs/images/JamesTallonProfilePic.jpg)
+
 ### Who am I?
 **Time at Durham College**
 - I have attended Durham College in Oshawa a few times before
