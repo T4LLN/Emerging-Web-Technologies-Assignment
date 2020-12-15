@@ -1,5 +1,8 @@
-### Emergine Web Technology Assignment [CWMD1500]
-## James Tallon & Brittney Bray
+### Greetings! My name is James Tallon
+## This is my half of the Emerging Web Technologies assignment for CWMD 1500
+
+**1. Who I Am:**
+- 
 
 ```markdown
 Syntax highlighted code block
