@@ -1,7 +1,11 @@
-## James Tallon's Emerging Web Tehcnologies Assignment
+## James Tallon's Emerging Web Technologies Assignment
 
-**Who Am I?**
-- 
+**What are my hobbies?**
+- I enjoy playing Pokemon Go
+
+
+- I have also been playing paintball for 10+ years
+
 
 ```markdown
 Syntax highlighted code block
