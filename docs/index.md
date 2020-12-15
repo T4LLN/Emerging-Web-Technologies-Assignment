@@ -1,6 +1,6 @@
 ## James Tallon's Emerging Web Technologies Assignment
 
-![alt text](docs/images/JamesTallonProfilePic.jpg)
+![Experimenting with long exposure for photography class](images/JamesTallonProfilePic.jpg)
 
 ### Who am I?
 **Time at Durham College**
