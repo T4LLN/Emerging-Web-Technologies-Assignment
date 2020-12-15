@@ -1,7 +1,6 @@
-## Greetings! My name is James Tallon
-This is my half of the Emerging Web Technologies assignment for CWMD 1500
+## James Tallon's Emerging Web Tehcnologies Assignment
 
-**1. Who I Am:**
+**Who Am I?**
 - 
 
 ```markdown
