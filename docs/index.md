@@ -1,6 +1,6 @@
 ## James Tallon's Emerging Web Technologies Assignment
 
-**What are my hobbies?**
+### What are my hobbies?
 - I enjoy playing Pokemon Go
 
 
