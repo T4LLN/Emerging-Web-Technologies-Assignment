@@ -25,5 +25,5 @@
 - I started off not knowing much about the sport
 - I used to play at a field in Bowmanville, Ontario for years before it closed
 - I own a high-end paintball marker that would double as a car payment if I chose to sell it (expensive gun)
-*This does not include any of my other gear (ie. facemask, playing apparel, headbands, gloves, etc.)*
+- *This does not include any of my other gear (ie. facemask, playing apparel, headbands, gloves, etc.)*
 - My paintball marker has Bluetooth built into it as well
