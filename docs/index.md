@@ -1,6 +1,7 @@
 ## James Tallon & Brittney Bray's Emerging Web Technologies Assignment
 
 ![James experimenting with long exposure for photography class](images/JamesTallonProfilePic.jpg)
+![Professional photo taken of James during a huge paintball event](images/JamesTallonProfilePic2.jpg)
 ![Brittney playing paintball in all of her gear](images/BrittneyBrayProfilePic.jpg)
 
 ### Who is James?
