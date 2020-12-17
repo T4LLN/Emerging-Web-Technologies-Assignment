@@ -1,6 +1,7 @@
 ## James Tallon's Emerging Web Technologies Assignment
 
-![Experimenting with long exposure for photography class](images/JamesTallonProfilePic.jpg)
+![James experimenting with long exposure for photography class](images/JamesTallonProfilePic.jpg)
+![Brittney playing paintball in all of her gear](images/BrittneyBrayProfilePic.jpg)
 
 ### Who am I?
 **Time at Durham College**
