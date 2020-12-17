@@ -1,15 +1,15 @@
-## James Tallon's Emerging Web Technologies Assignment
+## James Tallon & Brittney Bray's Emerging Web Technologies Assignment
 
 ![James experimenting with long exposure for photography class](images/JamesTallonProfilePic.jpg)
 ![Brittney playing paintball in all of her gear](images/BrittneyBrayProfilePic.jpg)
 
-### Who am I?
+### Who is James?
 **Time at Durham College**
 - I have attended Durham College in Oshawa a few times before
 - I have only successfully completed a program once, which was for General Arts and Science
 - Last year I dropped out of Computer Programmer mid-way through second semester, but learned so much along the way
 
-**Past and future**
+**James' Past and future**
 - I have been driving a car since I earned my license when I was 16
 - I have never failed a driver test or exam
 - I used to weight roughly 360 pounds three years ago, I am now down to 210 and feel great
@@ -17,7 +17,7 @@
 - The future makes me nervous, but I know that great experiences and a fulfilling life is on the horizon
 
 
-### What are my hobbies?
+### What are some of James' hobbies?
 **I enjoy playing Pokémon Go**
 - I have been playing Pokémon Go on my Android phone since the game’s first release in 2016
 - I accumulated 20 million experience reaching the max level of 40 about a year ago
