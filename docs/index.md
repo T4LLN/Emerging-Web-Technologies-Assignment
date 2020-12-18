@@ -30,3 +30,29 @@
 - I own a high-end paintball marker that would double as a car payment if I chose to sell it (expensive gun)
 - Note: *This does not include any of my other gear (ie. facemask, playing apparel, headbands, gloves, etc.)*
 - My paintball marker has Bluetooth built into it as well
+
+### Who is Brittney?
+**Brittney's Past and future**
+I used to look at my future and see that I would be a veterinarian running my own practice, being able to help out every animal that came into the clinic. That of course has crashed down since I have noticed how difficult it is being in the veterinary field, it is very much a thankless job when it comes down to it and you do not get enough financially to actually live on your own or give the ability to move out of the house. So I have turned to computers as my next best thing, I never had a fall back career but I love to tinker with things and typically the more frustrating something is the more time I will take to pick it apart. For now I am hoping to move forward with my life and to see what other wonders the world holds instead of keeping my head in a textbook just to barely pass a class. 
+
+### Brittney's Hobbies
+- Playing Pokemon GO 
+-	Paintball 
+-	Reading 
+-	Drawing/painting
+-	Watching anime 
+-	Hanging out with my other half 
+-	Dancing like no one’s watching 
+-	Reading/gaining facts about animals 
+-	Ability to read something once or hear it once and have a 95% chance that I will remember it
+
+### Brittney's Education
+-	Animal Care Durham College 
+-	Veterinary Office administration Guelph University 
+-	Veterinary technician program: I did not complete this program as the workload was very textbook heavy and I do better with hands on tasks.
+
+### Future goals
+-	Move out of the house and have my own place to take care of 
+-	Get my full drivers license 
+-	Have a better understanding of ADHD and learn new ways to cope with it 
+-	Enjoy life to the fullest, don’t let fear get in your way
