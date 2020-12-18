@@ -1,4 +1,6 @@
-### Who is James?
+###Emerging Web Technology Assignment
+
+## Who is James?
 
 ![James experimenting with long exposure for photography class](images/JamesTallonProfilePic1.jpg)
 
@@ -31,7 +33,7 @@
 **School email**:
 - [james.tallon@dcmail.ca](mailto:james.tallon@dcmail.ca)
 
-### Who is Brittney?
+## Who is Brittney?
 
 ![Brittney playing paintball in all of her gear](images/BrittneyBrayProfilePic1.jpg)
 
