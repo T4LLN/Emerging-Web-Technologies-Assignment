@@ -1,5 +1,4 @@
-## James Tallon & Brittney Bray's Emerging Web Technologies Assignment
-
+### Who are we?
 ![James experimenting with long exposure for photography class](images/JamesTallonProfilePic1.jpg)
 
 ### Who is James?
