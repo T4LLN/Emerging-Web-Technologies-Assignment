@@ -29,7 +29,7 @@
 
 **James' contact information**
 **School email**:
-[james.tallon@dcmail.ca](mailto:james.tallon@dcmail.ca)
+- [james.tallon@dcmail.ca](mailto:james.tallon@dcmail.ca)
 
 ### Who is Brittney?
 
@@ -63,4 +63,4 @@
 
 **Brittney's contact information**
 **School email**:
-[brittney.bray@dcmail.ca](mailto:brittney.bray@dcmail.ca)
+- [brittney.bray@dcmail.ca](mailto:brittney.bray@dcmail.ca)
