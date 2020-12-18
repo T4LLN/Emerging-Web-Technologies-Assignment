@@ -28,9 +28,9 @@
 - Note: *This does not include any of my other gear (ie. facemask, playing apparel, headbands, gloves, etc.)*
 - My paintball marker has Bluetooth built into it as well
 
-### James' contact information
+## James' contact information
 **School email**
-- [james.tallon@dcmail.ca](mailto:james.tallon@dcmail.ca)
+[james.tallon@dcmail.ca](mailto:james.tallon@dcmail.ca)
 
 ![Brittney playing paintball in all of her gear](images/BrittneyBrayProfilePic1.jpg)
 
@@ -61,6 +61,6 @@
 -	Have a better understanding of ADHD and learn new ways to cope with it 
 -	Enjoy life to the fullest, don’t let fear get in your way
 
-### Brittney's contact information
+## Brittney's contact information
 **School email**
-- [brittney.bray@dcmail.ca](mailto:brittney.bray@dcmail.ca)
+[brittney.bray@dcmail.ca](mailto:brittney.bray@dcmail.ca)
