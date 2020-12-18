@@ -1,7 +1,6 @@
 ## James Tallon & Brittney Bray's Emerging Web Technologies Assignment
 
 ![James experimenting with long exposure for photography class](images/JamesTallonProfilePic1.jpg)
-![Brittney playing paintball in all of her gear](images/BrittneyBrayProfilePic1.jpg)
 
 ### Who is James?
 **Time at Durham College**
@@ -16,8 +15,6 @@
 - I envision myself designing the user interfaces of paintball markers for popular industry leaders like Planet Eclipse or Empire
 - The future makes me nervous, but I know that great experiences and a fulfilling life is on the horizon
 
-
-### What are some of James' hobbies?
 **I enjoy playing Pokémon Go**
 - I have been playing Pokémon Go on my Android phone since the game’s first release in 2016
 - I accumulated 20 million experience reaching the max level of 40 about a year ago
@@ -33,14 +30,16 @@
 
 ### James' contact information
 **School email**
-- Email: [james.tallon@dcmail.ca](mailto:james.tallon@dcmail.ca)
+- [james.tallon@dcmail.ca](mailto:james.tallon@dcmail.ca)
+
+![Brittney playing paintball in all of her gear](images/BrittneyBrayProfilePic1.jpg)
 
 ### Who is Brittney?
 **Brittney's Past and future**
 - I used to look at my future and see that I would be a veterinarian running my own practice, being able to help out every animal that came into the clinic. That of course has crashed down since I have noticed how difficult it is being in the veterinary field, it is very much a thankless job when it comes down to it and you do not get enough financially to actually live on your own or give the ability to move out of the house. 
 - I have turned to computers as my next best thing, I never had a fall back career but I love to tinker with things and typically the more frustrating something is the more time I will take to pick it apart. For now I am hoping to move forward with my life and to see what other wonders the world holds instead of keeping my head in a textbook just to barely pass a class. 
 
-### Brittney's Hobbies
+**Brittney's Hobbies**
 - Playing Pokemon GO 
 -	Paintball 
 -	Reading 
@@ -51,12 +50,12 @@
 -	Reading/gaining facts about animals 
 -	Ability to read something once or hear it once and have a 95% chance that I will remember it
 
-### Brittney's Education
+**Brittney's Education**
 -	Animal Care Durham College 
 -	Veterinary Office administration Guelph University 
 -	Veterinary technician program: I did not complete this program as the workload was very textbook heavy and I do better with hands on tasks.
 
-### Future goals
+**Future Goals**
 -	Move out of the house and have my own place to take care of 
 -	Get my full drivers license 
 -	Have a better understanding of ADHD and learn new ways to cope with it 
@@ -64,4 +63,4 @@
 
 ### Brittney's contact information
 **School email**
-- Email: [brittney.bray@dcmail.ca](mailto:brittney.bray@dcmail.ca)
+- [brittney.bray@dcmail.ca](mailto:brittney.bray@dcmail.ca)
