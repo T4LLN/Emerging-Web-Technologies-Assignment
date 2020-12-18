@@ -31,6 +31,10 @@
 - Note: *This does not include any of my other gear (ie. facemask, playing apparel, headbands, gloves, etc.)*
 - My paintball marker has Bluetooth built into it as well
 
+### James' contact information
+**School email**
+- Email: [james.tallon@dcmail.ca](mailto:james.tallon@dcmail.ca)
+
 ### Who is Brittney?
 **Brittney's Past and future**
 - I used to look at my future and see that I would be a veterinarian running my own practice, being able to help out every animal that came into the clinic. That of course has crashed down since I have noticed how difficult it is being in the veterinary field, it is very much a thankless job when it comes down to it and you do not get enough financially to actually live on your own or give the ability to move out of the house. 
@@ -57,3 +61,7 @@
 -	Get my full drivers license 
 -	Have a better understanding of ADHD and learn new ways to cope with it 
 -	Enjoy life to the fullest, don’t let fear get in your way
+
+### Brittney's contact information
+**School email**
+- Email: [brittney.bray@dcmail.ca](mailto:brittney.bray@dcmail.ca)
