@@ -1,7 +1,7 @@
-### Who are we?
+### Who is James?
+
 ![James experimenting with long exposure for photography class](images/JamesTallonProfilePic1.jpg)
 
-### Who is James?
 **Time at Durham College**
 - I have attended Durham College in Oshawa a few times before
 - I have only successfully completed a program once, which was for General Arts and Science
@@ -31,9 +31,10 @@
 **School email**:
 [james.tallon@dcmail.ca](mailto:james.tallon@dcmail.ca)
 
+### Who is Brittney?
+
 ![Brittney playing paintball in all of her gear](images/BrittneyBrayProfilePic1.jpg)
 
-### Who is Brittney?
 **Brittney's Past and future**
 - I used to look at my future and see that I would be a veterinarian running my own practice, being able to help out every animal that came into the clinic. That of course has crashed down since I have noticed how difficult it is being in the veterinary field, it is very much a thankless job when it comes down to it and you do not get enough financially to actually live on your own or give the ability to move out of the house. 
 - I have turned to computers as my next best thing, I never had a fall-back career, but I love to tinker with things and typically the more frustrating something is the more time I will take to pick it apart. For now, I am hoping to move forward with my life and to see what other wonders the world holds instead of keeping my head in a textbook just to barely pass a class. 
